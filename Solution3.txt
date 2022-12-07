@@ -1,0 +1,3 @@
+A. It is used to search terminal command history
+C.7/10
+D.I have used Apache Tomcat server while developing   backend services using spring boot.
